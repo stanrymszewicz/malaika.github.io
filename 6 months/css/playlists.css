@@ -1,0 +1,37 @@
+body{background-image: url("mala.jpg");
+	background-size: 100%;
+color: #ffffff;
+font-family: Cambria;}
+h1{text-align: center;}
+
+ a{text-decoration: none;
+	background-color: rgba(141,213,145,0.5);
+	width: 22%;
+	display: inline-block;}
+a:hover{background:  #ffffff;
+	color: #444444;}
+a:active{border: 3px solid #000000;}
+
+ nav{
+
+
+
+text-align: center;
+border-radius: 30px;
+color: #ffffff;
+display: inline-block;
+width: 30%;
+height: 10%;}
+a{border-radius: 30px;
+color: #ffffff;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-bottom: 20px;	
+padding-top: 20px;
+margin: 5px;
+margin-left: 5px;
+margin-right: 5px;}
+
+.goback{background-color: rgba(157, 13, 13, 0.5);}
+
+
