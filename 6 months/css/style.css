@@ -12,17 +12,17 @@ nav a{text-decoration: none;
 a:hover{background:  #ffffff;
 	color: #444444;}
 a:active{border: 3px solid #000000;}
-nav a{margin: 5px;
-margin-bottom: 55px;	
-padding-top: 30px;
-padding-bottom: 30px;
-padding-left: 5px;
-padding-right: 5px;
+
+nav a{margin: 2%;
+margin-bottom: 2%;	
+padding-top: 2%;
+padding-bottom: 2%;
+padding-left: 2%;
+padding-right: 2%;
 text-align: center;
-border-radius: 30px;
+border-radius: 45px;
 color: #ffffff;
 display: inline-block;}
-
 
 
 
