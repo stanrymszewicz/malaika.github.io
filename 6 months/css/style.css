@@ -12,8 +12,18 @@ nav a{text-decoration: none;
 a:hover{background:  #ffffff;
 	color: #444444;}
 a:active{border: 3px solid #000000;}
+nav a{
+	box-sizing:border-box;
+	display:inline-block;
+	height:60px;
+	color: #FFFFFF;
+	background-color:#486B02;
+	text-decoration: none;
+	margin:1% 5% 1% 0;
+	padding:1% 5%;
+	border-radius: 25px;
 
-nav a{margin: 5px;
+	/*nav a{margin: 5px;
 margin-bottom: 55px;	
 padding-top: 30px;
 padding-bottom: 30px;
